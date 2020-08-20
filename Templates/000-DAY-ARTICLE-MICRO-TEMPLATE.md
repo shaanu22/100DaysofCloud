@@ -1,13 +1,11 @@
 <!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# New post title here
+# Day 0: Setting up Github Rep, Studying SQS, SNS, Kinesis, and Active MQ
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
+- Today, I copied the 100DaysofCloud journey template; getting ready to start strong tomorrow. 
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet] (https://twitter.com/mails2samtaiwo/status/1296316662963109888)
